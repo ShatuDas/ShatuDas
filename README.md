@@ -4,6 +4,9 @@
 <h1 align="center">Hi I'm Shatu Chandra Das</h1>
 <h3 align="center">A passionate Laravel developer from Bangladesh</h3>
 
+<p>Laravel developer with experience in building scalable and efficient web applications. Proficient in PHP and back-end development with a focus on creating high-quality solutions.
+</p>
+
 - I’m currently working on **InComIT Solution**
 
 - I’m currently learning **Laravel**
