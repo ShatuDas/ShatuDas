@@ -17,7 +17,7 @@
 
 - My Contact Number  **01834959643**
 
-- I'm looking for help developing AI tools that can help with the SOFTWARE DEVELOPMENT process.
+- I'm looking for SOFTWARE DEVELOPMENT process.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
